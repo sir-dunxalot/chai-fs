@@ -55,6 +55,6 @@
     "underscore": "1.6.x"
   },
   "peerDependencies": {
-    "chai": ">= 1.6.1 < 2.2"
+    "chai": ">= 1.6.1 < 3"
   }
 }
